@@ -1,0 +1,54 @@
+{
+    "name": "beebmx/kirby-starterkit",
+    "type": "project",
+    "description": "Beeb.mx Starter Kit for Kirby CMS",
+    "keywords": ["kirby", "cms", "starterkit"],
+    "homepage": "https://getkirby.com",
+    "authors": [
+        {
+            "name": "Bastian Allgeier",
+            "email": "bastian@getkirby.com",
+            "homepage": "https://getkirby.com"
+        }, {
+            "name": "Fernando Gutiérrez",
+            "homepage": "https://beeb.mx"
+        }
+    ],
+    "support": {
+        "email": "support@getkirby.com",
+        "issues": "https://github.com/beebmx/kirby-starterkit/issues",
+        "source": "https://github.com/beebmx/kirby-starterkit"
+    },
+    "require": {
+        "php": "^8.3",
+        "getkirby/cms": "^5.0",
+        "beebmx/kirby-env": "^5.0",
+        "beebmx/kirby-blade": "^6.0",
+        "beebmx/kirby-courier": "^1.0",
+        "beebmx/kirby-sign": "^1.0",
+        "beebmx/kirby-enum": "^1.0"
+    },
+    "require-dev": {
+        "spatie/ray": "^1.40",
+        "laravel/pint": "^1.20"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "scripts": {
+        "post-root-package-install": [
+            "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    },
+    "extra": {
+        "kirby-cms-path": false
+    }
+}

@@ -1,0 +1,17 @@
+title: Inicio
+
+fields:
+  slider1:
+    type: files
+    width: 1/2
+    label: Slider Film
+    layout: cards
+    image:
+      cover: true
+  slider2:
+    type: files
+    width: 1/2
+    label: Slider Commercial
+    layout: cards
+    image:
+      cover: true

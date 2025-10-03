@@ -1,0 +1,36 @@
+Title: Land Cruiser
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://idtwddvbprtwj3dq
+
+----
+
+Gallery:
+
+- file://uqrpxpr6hpapmioz
+- file://hgcz1droaxrwiqyy
+- file://g1miocwlbnkm1dfo
+- file://qmhuvtz3p3y6xvvc
+- file://awbsctuwr0z06zqp
+- file://nzcfxlor6dr2k3by
+
+----
+
+Director: Adrian Chifor
+
+----
+
+Video: - file://b7yweqfrazhhrhou
+
+----
+
+Portada: - file://pslqofoaulrqj1bj
+
+----
+
+Uuid: pea7qy6pbip8mzhb

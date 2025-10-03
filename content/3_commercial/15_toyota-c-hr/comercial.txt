@@ -1,0 +1,89 @@
+Title: Toyota C-HR
+
+----
+
+Director: Dirección Adrian Chifor
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://kawsozes1ikwnnrt
+
+----
+
+Gallery:
+
+- file://noavbjibthcnn7cx
+- file://yrusgx8lmlxcrc2a
+- file://9jxfgh4a8obwzegs
+- file://tcb3nygtrorady91
+- file://zrs14xkohydzuazn
+- file://kawsozes1ikwnnrt
+
+----
+
+Video: - file://gfueyt9ztyzo1ufs
+
+----
+
+Portada: - file://yrusgx8lmlxcrc2a
+
+----
+
+Imagen1: - toyota-1.jpg
+
+----
+
+Imagen2: - toyota-8.jpg
+
+----
+
+Imagen3: - toyota-3.jpg
+
+----
+
+Imagen4: - toyota-4.jpg
+
+----
+
+Imagen5: - toyota-5.jpg
+
+----
+
+Imagen6: - toyota-6.jpg
+
+----
+
+Related:
+
+- commercial/lexus-ux-300e
+- commercial/alhambra
+- commercial/cinepolis
+- commercial/ford-4-x-4
+- commercial/intact-insurance
+- commercial/mazda-color
+- commercial/banff-arts-centre
+- commercial/secuoya-solitario
+- commercial/cupra
+- commercial/unico-fresco
+- commercial/codere
+- commercial/bosques
+- commercial/cinepolis-2
+- commercial/toyota
+- commercial/mazda-chispas
+- commercial/ford
+- commercial/jumex
+- commercial/bonafont-levite
+- commercial/ford-waze
+- commercial/maestro-dobel
+- commercial/bimbo-parrilleros
+- commercial/domino-s
+- commercial/el-corte-ingles
+- commercial/bud-light-margarita
+
+----
+
+Uuid: aags5qhjnunjksbr

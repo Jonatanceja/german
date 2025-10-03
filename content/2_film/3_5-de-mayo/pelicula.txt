@@ -1,0 +1,66 @@
+Title: 5 de Mayo
+
+----
+
+Croptype: regular
+
+----
+
+Principal: - file://rqeutxaiaw2m5gdh
+
+----
+
+Gallery:
+
+- file://cg7yzdbblvgv9a6j
+- file://wnsx0rvyh6gc98ow
+- file://xbokbapdxlyytvjk
+- file://rqeutxaiaw2m5gdh
+
+----
+
+Director: Dirección Rafael Lara
+
+----
+
+Video: - file://dbmqtzmsfeyavpoc
+
+----
+
+Portada: - file://fx2dzrzyytrzk7xl
+
+----
+
+Imagen1: - 5-de-mayo-17.jpg
+
+----
+
+Imagen2: - cover-video.jpg
+
+----
+
+Imagen3: - 5-de-mayo-16.jpg
+
+----
+
+Imagen4: - 5-de-mayo-14.jpg
+
+----
+
+Related:
+
+- film/km-31-sin-retorno
+- film/dejala-ir
+- film/nos-vemos-papa
+
+----
+
+Imagen5: 
+
+----
+
+Imagen6: 
+
+----
+
+Uuid: hbe7pt4ypny4uowx

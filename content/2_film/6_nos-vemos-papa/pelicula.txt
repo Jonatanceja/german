@@ -1,0 +1,58 @@
+Title: Nos Vemos Papá
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://ooyndxia2zn1aaxq
+
+----
+
+Gallery:
+
+- file://wefy3oytsgvo6pl3
+- file://jglezgvzbefuhkm0
+- file://gxwscwxxray41jqn
+- file://4vz0aevi3cfplq2f
+
+----
+
+Director: Dirección Lucía Carreras
+
+----
+
+Video: - file://itfncxr74tadouhs
+
+----
+
+Portada: - file://ooyndxia2zn1aaxq
+
+----
+
+Imagen1: - nos-vemos-1.jpg
+
+----
+
+Imagen2: - nos-vemos-2.jpg
+
+----
+
+Imagen3: - nos-vemos-3.jpg
+
+----
+
+Imagen4: - nos-vemos-4.jpg
+
+----
+
+Related:
+
+- film/5-de-mayo
+- film/km-31-sin-retorno
+- film/dejala-ir
+
+----
+
+Uuid: tv4yb2pm32mmk3kc

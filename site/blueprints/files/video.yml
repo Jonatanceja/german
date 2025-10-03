@@ -1,0 +1,7 @@
+title: Video
+
+accept:
+    extension: mp4
+    maxsize: 62914560
+    orientation: landscape
+    

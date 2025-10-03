@@ -1,0 +1,89 @@
+Title: Banff Arts Centre
+
+----
+
+Director: Dirección Rodrigo García
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://dfmfonddkpfv4xov
+
+----
+
+Gallery:
+
+- file://haiwcgzo2u97pacx
+- file://xulyql6nhtverkim
+- file://jdjqm1vsop7xxchl
+- file://2bqxenpgbkc3iqie
+- file://havl6tqw90l9ywfm
+- file://dfmfonddkpfv4xov
+
+----
+
+Video: - file://3xez7hc33f5ulzyw
+
+----
+
+Portada: - file://havl6tqw90l9ywfm
+
+----
+
+Imagen1: - banif1.jpg
+
+----
+
+Imagen2: - banif2.jpg
+
+----
+
+Imagen3: - banif3.jpg
+
+----
+
+Imagen4: - banif4.jpg
+
+----
+
+Imagen5: - banif5.jpg
+
+----
+
+Imagen6: - banif6.jpg
+
+----
+
+Related:
+
+- commercial/lexus-ux-300e
+- commercial/alhambra
+- commercial/cinepolis
+- commercial/ford-4-x-4
+- commercial/toyota-c-hr
+- commercial/intact-insurance
+- commercial/mazda-color
+- commercial/secuoya-solitario
+- commercial/cupra
+- commercial/unico-fresco
+- commercial/codere
+- commercial/bosques
+- commercial/cinepolis-2
+- commercial/toyota
+- commercial/mazda-chispas
+- commercial/ford
+- commercial/jumex
+- commercial/bonafont-levite
+- commercial/ford-waze
+- commercial/maestro-dobel
+- commercial/bimbo-parrilleros
+- commercial/domino-s
+- commercial/el-corte-ingles
+- commercial/bud-light-margarita
+
+----
+
+Uuid: mwj0fnzix0nwmggs

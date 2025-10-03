@@ -1,0 +1,39 @@
+@import 'tailwindcss';
+
+@plugin "@tailwindcss/typography";
+@source "../../site/templates";
+
+h1, h2, h3 {
+            font-family: Gauthier Next Fy;
+        }
+
+        h4, h5, h6, p, li {
+            font-family: GT Cinetype; 
+        }
+        [x-cloak] {
+            display: none;
+        }
+
+        .plyr {
+            --plyr-color-main: gray;
+        }
+
+        .plyr__control--overlaid {
+            background: transparent;
+        }
+
+/* Aplica a todos los backdrops de Fancybox */
+.fancybox__backdrop {
+  background-color: rgba(0, 0, 0, 0.5) !important; /* Fondo negro con transparencia */
+  backdrop-filter: blur(10px);          /* Aplica el blur */
+  -webkit-backdrop-filter: blur(10px);  /* Para Safari */
+}
+
+.swiper-container {
+  opacity: 0;
+  transition: opacity 0.5s ease;
+}
+.swiper-container.swiper-initialized {
+  opacity: 1;
+}
+

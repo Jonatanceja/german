@@ -1,0 +1,36 @@
+Title: Aygo X
+
+----
+
+Croptype: regular
+
+----
+
+Principal: - file://oqcokwrrs9pm5pn8
+
+----
+
+Gallery:
+
+- file://9hqzahxus8ycxmkd
+- file://gtfpb2yelkuyhddi
+- file://dd3etpk9pkbxzfpa
+- file://oqcokwrrs9pm5pn8
+- file://achupho6rczg4fdw
+- file://uecwwu34ithfnwbe
+
+----
+
+Director: Adi Chifor
+
+----
+
+Video: - file://ni88lukq4l5lbtjf
+
+----
+
+Portada: - file://y2kk9zakuim2vhcu
+
+----
+
+Uuid: hsehwzezs2wfky9f

@@ -1,0 +1,36 @@
+Title: Anderson Fundación
+
+----
+
+Croptype: regular
+
+----
+
+Principal: - file://yiuhcpf9f3fiogce
+
+----
+
+Gallery:
+
+- file://tzozxuwy4wuql1mc
+- file://im8iavhfvxkqtl4z
+- file://qhyggbv39repfo6d
+- file://udjz10yrnywqtuwa
+- file://zkotsloc5cmnbuzp
+- file://fpn88xcm1figif7e
+
+----
+
+Director: Rodrigo García
+
+----
+
+Video: - file://ceridliycron6ps8
+
+----
+
+Portada: - file://nu85brm4hbyc8lln
+
+----
+
+Uuid: jmsg8oocvcjhw3jp

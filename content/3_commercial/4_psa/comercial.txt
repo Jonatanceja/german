@@ -1,0 +1,36 @@
+Title: PSA
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://63qkbqzppjmw6wfd
+
+----
+
+Gallery:
+
+- file://jz8tuhgqzerta4sg
+- file://cuxypgndhtn1639w
+- file://thrrfj8amjmy0r2m
+- file://uz51s4fgmixceyro
+- file://t8ra12e4egmpcgux
+- file://dinkmj2qpdgfqzzu
+
+----
+
+Director: 
+
+----
+
+Video: - file://yjsfkl1rjixksgkm
+
+----
+
+Portada: - file://itgqz1m9d8iibzgc
+
+----
+
+Uuid: rh9kbp3bddrmxxku

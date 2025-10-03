@@ -1,0 +1,36 @@
+Title: Lexus
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://rrog00thhikt7fcj
+
+----
+
+Gallery:
+
+- file://yck3awovubfwgj12
+- file://ribaaohvevbvngyp
+- file://qdixhimoznbjzo2y
+- file://prub4uxitga8nqo8
+- file://p8m5bahrlyzfaqsw
+- file://s8h6y2btxpqubkrt
+
+----
+
+Director: 
+
+----
+
+Video: - file://zzaw5rcgtvcjma5y
+
+----
+
+Portada: - file://7gz9qy1nipqk5qeu
+
+----
+
+Uuid: qwhxeptecgrc0hf6

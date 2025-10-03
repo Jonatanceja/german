@@ -1,0 +1,38 @@
+Title: Tú eres mi problema
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://kj2k7ghvmixhrwpc
+
+----
+
+Gallery:
+
+- file://nv2v87zwelffeorq
+- file://nd4utn0ame4wryai
+- file://zmg7jiq8hdu1bs3c
+- file://lez30sht9zawuvda
+- file://mx26vzup3kmymo6a
+- file://ve0la1d97uxadtbg
+- file://gjrhlqq6qidsqtfr
+- file://ir0jyrjl53ejjlb7
+
+----
+
+Director: Alvaro Curiel
+
+----
+
+Video: 
+
+----
+
+Portada: 
+
+----
+
+Uuid: 70td66g37ch9yusl

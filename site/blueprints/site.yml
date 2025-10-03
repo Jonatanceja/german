@@ -1,0 +1,72 @@
+title: Site
+
+templates: 
+  - home
+  - peliculas
+  - comerciales
+
+tabs:
+  content:
+    label: Contenido
+    columns:
+      left:
+        width: 2/3
+        sections:
+          pages:
+            headline: Páginas
+            type: pages
+            layout: cards
+            size: small
+            image:
+              cover: true
+              ratio: 16/9
+              back: black
+
+      right: 
+        width: 1/3
+        fields:
+          espana:
+            type: tel
+            label: Teléfono España
+            icon: phone
+          mexico:
+            type: tel
+            label: Teléfono México
+            icon: phone
+          mail:
+            type: email
+            label: Correo electrónico
+          mail2:
+            type: email
+            label: Correo electrónico 2
+
+  seo:
+    label: SEO
+    icon: search
+    columns:
+      main:
+        width: 2/3
+        fields:
+          ogtitle:
+            type: text
+            label: Open Graph Title
+          ogdescription:
+            type: textarea
+            label: Open Graph Description
+            buttons: false
+          ogimage:
+            type: files
+            label: Open Graph Image
+            multiple: false
+            uploads:
+              template: image
+      side:
+        width: 1/3
+        fields:
+          metatitle:
+            type: text
+            label: Meta Title
+          metadescription:
+            type: textarea
+            label: Meta Description
+            buttons: false

@@ -1,0 +1,74 @@
+Title: Intact Insurance
+
+----
+
+Director: Director Rodrigo García
+
+----
+
+Principal: - intact5.jpg
+
+----
+
+Imagen1: - intact6.jpg
+
+----
+
+Imagen2: - intact5.jpg
+
+----
+
+Imagen3: - intact4.jpg
+
+----
+
+Imagen4: - intact3.jpg
+
+----
+
+Imagen5: - still-intact-1.jpg
+
+----
+
+Imagen6: - intact1.jpg
+
+----
+
+Video: - intact_120e.mp4
+
+----
+
+Portada: - portada-intact.jpg
+
+----
+
+Related:
+
+- commercial/lexus-ux-300e
+- commercial/alhambra
+- commercial/cinepolis
+- commercial/ford-4-x-4
+- commercial/toyota-c-hr
+- commercial/mazda-color
+- commercial/banff-arts-centre
+- commercial/secuoya-solitario
+- commercial/cupra
+- commercial/unico-fresco
+- commercial/codere
+- commercial/bosques
+- commercial/cinepolis-2
+- commercial/toyota
+- commercial/mazda-chispas
+- commercial/ford
+- commercial/jumex
+- commercial/bonafont-levite
+- commercial/ford-waze
+- commercial/maestro-dobel
+- commercial/bimbo-parrilleros
+- commercial/domino-s
+- commercial/el-corte-ingles
+- commercial/bud-light-margarita
+
+----
+
+Uuid: m8zeqvzblbs2dfnn

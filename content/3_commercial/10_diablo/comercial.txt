@@ -1,0 +1,36 @@
+Title: Diablo
+
+----
+
+Director: Jorge Colón
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://jw0uu5pvhajxthpf
+
+----
+
+Gallery:
+
+- file://je5qjjyd5ujyosdf
+- file://yoh72pbkpo6jijan
+- file://xl2kf14ugyyxp61e
+- file://hd1bqage01u9w9lv
+- file://ickk8ek3dlehhctf
+- file://fdcbewdzd8lvzhmo
+
+----
+
+Video: - file://uhbf2wbar8s6yhts
+
+----
+
+Portada: - file://v8dpnv28d03uzwge
+
+----
+
+Uuid: ms0bmzglvrkjcm0c

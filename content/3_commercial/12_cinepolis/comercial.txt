@@ -1,0 +1,36 @@
+Title: Cinepolis
+
+----
+
+Director: Dirección Rodrigo García
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://1upzjk2wbtq3biky
+
+----
+
+Gallery:
+
+- file://y5fhptzivgdcpel9
+- file://hjhebqj0rj7s8oiy
+- file://ygu75gtt6hi5fvnv
+- file://gontm9iocarb4i7p
+- file://euhcjekabuiby7ud
+- file://d1fxwrthulco932j
+
+----
+
+Video: - file://n8tygzrudra4t4dw
+
+----
+
+Portada: - file://jhudrdxes7w2gcow
+
+----
+
+Uuid: 9rlzsel9ywme4wql

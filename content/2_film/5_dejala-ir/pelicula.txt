@@ -1,0 +1,68 @@
+Title: Dejala Ir
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://3whvpy03uli6oso3
+
+----
+
+Gallery:
+
+- file://pujoq4qzeors7ggt
+- file://n6vi7dojrpv9zi4s
+- file://54jd4emzdhdsezdx
+- file://5uw79mhi6pmytteg
+- file://okoe16vgnk9nznuc
+- file://mawxfkv3zx8r3ycz
+
+----
+
+Director: Dirección Arie Socorro
+
+----
+
+Video: - file://khqvr6ljcynbnw7s
+
+----
+
+Portada: - file://gtwwauw29jdhdlp2
+
+----
+
+Imagen1: - dejala-1.jpg
+
+----
+
+Imagen2: - dejala-2.jpg
+
+----
+
+Imagen3: - dejala-3.jpg
+
+----
+
+Imagen4: - dejala-4.jpg
+
+----
+
+Imagen5: - dejala-5.jpg
+
+----
+
+Imagen6: - dejala-6.jpg
+
+----
+
+Related:
+
+- film/5-de-mayo
+- film/km-31-sin-retorno
+- film/nos-vemos-papa
+
+----
+
+Uuid: ea2vgvvkabgq9eru

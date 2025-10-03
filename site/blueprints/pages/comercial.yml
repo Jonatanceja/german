@@ -1,0 +1,62 @@
+title: Pelicula
+
+columns:
+  main:
+    width: 2/3
+    sections:
+      details:
+        type: fields
+        fields:
+          director:
+            label: Director
+            type: text
+            width: 1/2
+          cropType:
+            label: Tipo de crop
+            width: 1/2
+            type: select
+            options:
+              regular: Regular
+              wide: Wide
+            default: regular
+          principal:
+            label: Imagen principal
+            type: files
+            max: 1
+            layout: cards
+            size: huge
+            image:
+              cover: true
+              ratio: 16/8
+          gallery:
+            label: Galería
+            type: files
+            layout: cards
+            image:
+              cover: true
+              ratio: 16/9
+
+  video:
+    width: 1/3
+    sections:
+      videoFields:
+        type: fields
+        fields:
+          seccionVideo:
+            label: Video
+            type: headline
+            numbered: false
+          video:
+            label: Video
+            type: files
+            max: 1
+            template: video
+          portada:
+            label: Portada Video
+            type: files
+            max: 1
+            layout: cards
+            size: huge
+            image: 
+              ratio: 6/4
+              cover: true

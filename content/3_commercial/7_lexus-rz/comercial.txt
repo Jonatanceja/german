@@ -1,0 +1,36 @@
+Title: Lexus RZ
+
+----
+
+Director: Adrian Chifor
+
+----
+
+Croptype: regular
+
+----
+
+Principal: - file://e2ka1vye4idjw1ln
+
+----
+
+Gallery:
+
+- file://fdebws2zwygzgai8
+- file://tdikzuq01ynmzlbc
+- file://vntnpntrwqz2z4yc
+- file://vopvffp87snpym7v
+- file://8gthoodbzee87gnc
+- file://gecarxhhuqauyst7
+
+----
+
+Video: - file://uabvk4m5wr5wllr8
+
+----
+
+Portada: - file://fdebws2zwygzgai8
+
+----
+
+Uuid: 4tbrbcj1jjemehr6

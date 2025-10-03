@@ -1,0 +1,36 @@
+Title: Mazda "Color"
+
+----
+
+Director: Hans Emanuel
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://aisiwzhtxxypwre0
+
+----
+
+Gallery:
+
+- file://aisiwzhtxxypwre0
+- file://ytfwazvab94i2m0x
+- file://npayvwftjgcstjdc
+- file://ig7ddw988ttgs51u
+- file://aqqzobhud51nsllo
+- file://syl6nhqviqrm14mk
+
+----
+
+Video: - file://uvjzviuclx2kqbg9
+
+----
+
+Portada: - file://aqqzobhud51nsllo
+
+----
+
+Uuid: 9c3wo9nsqozfm8s4

@@ -1,0 +1,45 @@
+title: Site
+icon: display
+
+templates: 
+  - comercial
+
+sections:
+  published:
+    headline: Publicadas
+    type: pages
+    status: listed
+    templates:
+      - comercial
+    layout: cards
+    size: small 
+    image:
+      query: page.principal.toFile
+      cover: true
+      ratio: 16/9
+
+  drafts:
+    headline: Borradores
+    type: pages
+    status: draft
+    templates:
+      - comercial
+    layout: cards
+    size: small 
+    image:
+      query: page.principal.toFile
+      cover: true
+      ratio: 16/9
+
+  unlisted:
+    headline: No publicadas
+    type: pages
+    status: unlisted
+    templates:
+      - comercial
+    layout: cards
+    size: small 
+    image:
+      query: page.principal.toFile
+      cover: true
+      ratio: 16/9

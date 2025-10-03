@@ -1,0 +1,18 @@
+title: Default Page
+
+fields:
+  text:
+    label: Text
+    type: textarea
+    size: large
+    width: 1/2
+  bg:
+    label: Fondo
+    type: files
+    max: 1
+    layout: cards
+    size: huge
+    image:
+      cover: true
+    width: 1/2
+    

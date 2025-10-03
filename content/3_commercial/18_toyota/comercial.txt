@@ -1,0 +1,36 @@
+Title: Toyota
+
+----
+
+Director: Jorge Colón
+
+----
+
+Croptype: wide
+
+----
+
+Principal: - file://16edmnveyhzbpkxg
+
+----
+
+Gallery:
+
+- file://7yytyfpxyuamazuw
+- file://jg8ynyioyfep6prd
+- file://s1cgtzjxjfc0y4u4
+- file://a8i0oz6hroynvtdt
+- file://wzr1ayo97vvisfcl
+- file://tienprf81d0iv6et
+
+----
+
+Video: - file://kd5mblmlqouetvp7
+
+----
+
+Portada: - file://qkrzlc8fcv07xchv
+
+----
+
+Uuid: s5hep31pcbu4dnwe
